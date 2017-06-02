@@ -1,2 +1,4 @@
 weird spidering of nba historical data from basketball-reference.com
 
+just use playerdf['Name/Page/PPG'][Index]
+should be easy to change this for any other stat. i'll add support sometime
